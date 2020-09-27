@@ -1,33 +1,33 @@
-index,price,MSRP,prod_Q,Rank,Sales_Rank,Quantity_Rank
-傢俱,6681964.0,16384364.0,2284,1,Valuable index,Valuable index
-下載,1492896.0,1525725.0,1718,2,Valuable index,Valuable index
-收納,736620.0,1790765.0,928,3,Valuable index,Valuable index
-預購,10513622.0,18422408.0,810,4,Valuable index,Valuable index
-燈飾,2546209.0,2722486.0,563,5,Valuable index,Valuable index
-餐廚,741347.0,1799720.0,471,6,Valuable index,Valuable index
- 廚房家電,1414375.0,2550179.0,396,7,Valuable index,Potential index
-衛浴,905104.0,1479166.0,373,8,Valuable index,Potential index
-三井3C,1080919.0,1419969.0,367,9,Valuable index,Potential index
-按摩椅/舒壓 ,1712306.0,4381289.0,339,10,Valuable index,Potential index
-南紡3C,1879629.0,2794283.0,327,11,Valuable index,Potential index
-票券,1404571.0,1490590.0,304,12,Valuable index,Potential index
-行李箱,830514.0,2338989.0,302,13,Valuable index,Potential index
-智慧手機,5517482.0,6027506.0,293,14,Valuable index,Potential index
-DIY,1825846.0,1825846.0,274,15,Valuable index,Potential index
-列 印,705427.0,798895.0,263,16,Valuable index,Potential index
-筆記電腦,7964847.0,8854817.0,253,17,Valuable index,Potential index
-機車/部品,11949550.0,12784681.0,250,18,Valuable index,Potential index
-床墊,797814.0,2833146.0,205,19,Valuable index,Potential index
-健身/按摩槍,900012.0,2281160.0,188,20,Valuable index,Potential index
-南紡家電,1455655.0,1821534.0,186,21,Valuable index,Potential index
- 液晶電視,3172278.0,9129278.0,168,22,Valuable index,Potential index
-電器嚴選,1166108.0,2811570.0,167,23,Valuable index,Potential index
- 吸塵器,751149.0,1309581.0,136,24,Valuable index,Potential index
-黃金,3174544.0,3266866.0,126,25,Valuable index,Potential index
-音響劇院,6997385.0,7311803.0,119,26,Valuable index,Potential index
-  洗/乾衣機,868360.0,1352236.0,97,27,Valuable index,Potential index
-液晶電視,1634614.0,2369344.0,95,28,Valuable index,Potential index
- 冰箱,1554801.0,2236033.0,87,29,Valuable index,Potential index
-電器商城,1140569.0,1146909.0,84,30,Valuable index,Potential index
-數位相機,1873121.0,2246316.0,76,31,Valuable index,Potential index
-瑞士錶,4511392.0,5168250.0,65,32,Valuable index,Potential index
+Rank,index,Sum of sales,Sum of MSRP,prod_Q,Sales_Rank,Quantity_Rank
+1,傢俱,6681964.0,16384364.0,2284,Valuable index,Valuable index
+2,下載,1492896.0,1525725.0,1718,Valuable index,Valuable index
+3,收納,736620.0,1790765.0,928,Valuable index,Valuable index
+4,預購,10513622.0,18422408.0,810,Valuable index,Valuable index
+5,燈飾,2546209.0,2722486.0,563,Valuable index,Valuable index
+6,餐廚,741347.0,1799720.0,471,Valuable index,Valuable index
+7, 廚房家電,1414375.0,2550179.0,396,Valuable index,Potential index
+8,衛浴,905104.0,1479166.0,373,Valuable index,Potential index
+9,三井3C,1080919.0,1419969.0,367,Valuable index,Potential index
+10,按摩椅/舒壓 ,1712306.0,4381289.0,339,Valuable index,Potential index
+11,南紡3C,1879629.0,2794283.0,327,Valuable index,Potential index
+12,票券,1404571.0,1490590.0,304,Valuable index,Potential index
+13,行李箱,830514.0,2338989.0,302,Valuable index,Potential index
+14,智慧手機,5517482.0,6027506.0,293,Valuable index,Potential index
+15,DIY,1825846.0,1825846.0,274,Valuable index,Potential index
+16,列 印,705427.0,798895.0,263,Valuable index,Potential index
+17,筆記電腦,7964847.0,8854817.0,253,Valuable index,Potential index
+18,機車/部品,11949550.0,12784681.0,250,Valuable index,Potential index
+19,床墊,797814.0,2833146.0,205,Valuable index,Potential index
+20,健身/按摩槍,900012.0,2281160.0,188,Valuable index,Potential index
+21,南紡家電,1455655.0,1821534.0,186,Valuable index,Potential index
+22, 液晶電視,3172278.0,9129278.0,168,Valuable index,Potential index
+23,電器嚴選,1166108.0,2811570.0,167,Valuable index,Potential index
+24, 吸塵器,751149.0,1309581.0,136,Valuable index,Potential index
+25,黃金,3174544.0,3266866.0,126,Valuable index,Potential index
+26,音響劇院,6997385.0,7311803.0,119,Valuable index,Potential index
+27,  洗/乾衣機,868360.0,1352236.0,97,Valuable index,Potential index
+28,液晶電視,1634614.0,2369344.0,95,Valuable index,Potential index
+29, 冰箱,1554801.0,2236033.0,87,Valuable index,Potential index
+30,電器商城,1140569.0,1146909.0,84,Valuable index,Potential index
+31,數位相機,1873121.0,2246316.0,76,Valuable index,Potential index
+32,瑞士錶,4511392.0,5168250.0,65,Valuable index,Potential index

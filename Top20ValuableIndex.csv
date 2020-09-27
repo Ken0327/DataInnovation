@@ -1,7 +1,7 @@
-index,price,MSRP,prod_Q,Rank,Sales_Rank,Quantity_Rank
-傢俱,6681964.0,16384364.0,2284,1,Valuable index,Valuable index
-下載,1492896.0,1525725.0,1718,2,Valuable index,Valuable index
-收納,736620.0,1790765.0,928,3,Valuable index,Valuable index
-預購,10513622.0,18422408.0,810,4,Valuable index,Valuable index
-燈飾,2546209.0,2722486.0,563,5,Valuable index,Valuable index
-餐廚,741347.0,1799720.0,471,6,Valuable index,Valuable index
+Rank,index,Sum of sales,Sum of MSRP,prod_Q,Sales_Rank,Quantity_Rank
+1,傢俱,6681964.0,16384364.0,2284,Valuable index,Valuable index
+2,下載,1492896.0,1525725.0,1718,Valuable index,Valuable index
+3,收納,736620.0,1790765.0,928,Valuable index,Valuable index
+4,預購,10513622.0,18422408.0,810,Valuable index,Valuable index
+5,燈飾,2546209.0,2722486.0,563,Valuable index,Valuable index
+6,餐廚,741347.0,1799720.0,471,Valuable index,Valuable index
