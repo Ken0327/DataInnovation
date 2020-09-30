@@ -1,24 +1,24 @@
 Rank,index,Sum of sales,Sum of MSRP,prod_Q,Sales_Rank,Quantity_Rank
-1,傢俱,6681964.0,16384364.0,2284,Valuable index,Valuable index
+1,傢俱,6681077.0,16382991.0,2282,Valuable index,Valuable index
 2,下載,1492896.0,1525725.0,1718,Valuable index,Valuable index
-3,收納,736620.0,1790765.0,928,Valuable index,Valuable index
-4,預購,10513622.0,18422408.0,810,Valuable index,Valuable index
-5,燈飾,2546209.0,2722486.0,563,Valuable index,Valuable index
-6,餐廚,741347.0,1799720.0,471,Valuable index,Valuable index
+3,收納,734026.0,1786335.0,925,Valuable index,Valuable index
+4,預購,10518617.0,18427403.0,811,Valuable index,Valuable index
+5,燈飾,2547757.0,2724956.0,567,Valuable index,Valuable index
+6,餐廚,744769.0,1807680.0,473,Valuable index,Valuable index
 7, 廚房家電,1414375.0,2550179.0,396,Valuable index,Potential index
 8,衛浴,905104.0,1479166.0,373,Valuable index,Potential index
-9,三井3C,1080919.0,1419969.0,367,Valuable index,Potential index
+9,三井3C,1080630.0,1419570.0,366,Valuable index,Potential index
 10,按摩椅/舒壓 ,1712306.0,4381289.0,339,Valuable index,Potential index
-11,南紡3C,1879629.0,2794283.0,327,Valuable index,Potential index
+11,南紡3C,1939888.0,2860042.0,332,Valuable index,Potential index
 12,票券,1404571.0,1490590.0,304,Valuable index,Potential index
 13,行李箱,830514.0,2338989.0,302,Valuable index,Potential index
 14,智慧手機,5517482.0,6027506.0,293,Valuable index,Potential index
 15,DIY,1825846.0,1825846.0,274,Valuable index,Potential index
 16,列 印,705427.0,798895.0,263,Valuable index,Potential index
 17,筆記電腦,7964847.0,8854817.0,253,Valuable index,Potential index
-18,機車/部品,11949550.0,12784681.0,250,Valuable index,Potential index
+18,機車/部品,11805950.0,12630681.0,248,Valuable index,Potential index
 19,床墊,797814.0,2833146.0,205,Valuable index,Potential index
-20,健身/按摩槍,900012.0,2281160.0,188,Valuable index,Potential index
+20,健身/按摩槍,898013.0,2276360.0,187,Valuable index,Potential index
 21,南紡家電,1455655.0,1821534.0,186,Valuable index,Potential index
 22, 液晶電視,3172278.0,9129278.0,168,Valuable index,Potential index
 23,電器嚴選,1166108.0,2811570.0,167,Valuable index,Potential index
@@ -29,5 +29,5 @@ Rank,index,Sum of sales,Sum of MSRP,prod_Q,Sales_Rank,Quantity_Rank
 28,液晶電視,1634614.0,2369344.0,95,Valuable index,Potential index
 29, 冰箱,1554801.0,2236033.0,87,Valuable index,Potential index
 30,電器商城,1140569.0,1146909.0,84,Valuable index,Potential index
-31,數位相機,1873121.0,2246316.0,76,Valuable index,Potential index
+31,數位相機,1874320.0,2248715.0,78,Valuable index,Potential index
 32,瑞士錶,4511392.0,5168250.0,65,Valuable index,Potential index
